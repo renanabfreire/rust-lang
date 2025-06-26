@@ -1,5 +1,5 @@
 fn main() {
-    // Here I'm creating a string with 'Olá', which means 'Hello' in Portuguese.
+    // Here I'm creating a string with 'Olá'
     let s = String::from("Olá");
 
     // Calling the function that modifies 's'
